@@ -230,6 +230,26 @@ input[type=submit] {
 		position: static;
 	}
 
+	header nav {
+
+		margin-right: 10px;
+	}
+
+	
+	#main-container {
+
+		max-width: 980px;
+        width: 100%;
+	}
+
+	.main-section {
+
+		max-width: 980px;
+        width: 100%;
+        text-align: justify;
+
+	}
+
 
 	 .sidebar {
         max-width: 980px;
@@ -257,6 +277,26 @@ input[type=submit] {
 
 	 }
 
+	 header nav {
+         
+		margin-right: 10px;
+	}
+
+	
+	#main-container {
+
+		max-width: 980px;
+        width: 100%;
+	}
+
+	.main-section {
+
+		max-width: 980px;
+        width: 100%;
+        text-align: justify;
+
+	}
+
 	 .sidebar {
         max-width: 980px;
         width: 100%;
@@ -282,6 +322,26 @@ input[type=submit] {
 
 	header {
 		position: static;
+	}
+
+	header nav {
+         
+		margin-right: 10px;
+	}
+
+	
+	#main-container {
+
+		max-width: 980px;
+        width: 100%;
+	}
+
+	.main-section {
+
+		max-width: 980px;
+        width: 100%;
+        text-align: justify;
+
 	}
 
 
