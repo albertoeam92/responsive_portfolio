@@ -215,10 +215,94 @@ textarea {
 input[type=submit] {
 	background: #4aaaa5;
 	border: 0 none;
-	color: #fff;
+	color:   #fff;
 	font-size: 18px;
 	padding: 10px 30px;
 	cursor: pointer;
 }
  
+
+/* MEDIA QUERIES*/
+
+@media screen and (max-width: 980px) and (min-width: 769px) {
+
+	 header {
+		position: static;
+	}
+
+
+	 .sidebar {
+        max-width: 980px;
+        width: 100%;
+	 	
+	 	
+	 }
+
+	 #connect {
+	 	
+	 	text-align: center;
+	 }
+    
+     .social {
+     	margin-right: 25px;
+     	margin-left: 25px;
+
+     }
+}
+
+@media screen and (max-width: 768px) and ( min-width: 641px) {
+
+	 header {
+	 	position: static;
+
+	 }
+
+	 .sidebar {
+        max-width: 980px;
+        width: 100%;
+	 	
+	 	
+	 }
+
+	 #connect {
+	 	
+	 	text-align: center;
+	 }
+    
+     .social {
+     	margin-right: 25px;
+     	margin-left: 25px;
+
+     }
+
+
+}
+
+@media screen and (max-width: 640px) {
+
+	header {
+		position: static;
+	}
+
+
+	 .sidebar {
+        max-width: 980px;
+        width: 100%;
+	 	
+	 	
+	 }
+
+	 #connect {
+	 	
+	 	text-align: center;
+	 }
+    
+     .social {
+     	margin-right: 25px;
+     	margin-left: 25px;
+
+     }
+}
+
+
 
